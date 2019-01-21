@@ -11,9 +11,17 @@
 - [Active Directory](https://docs.microsoft.com/en-us/windows/desktop/ad/active-directory-domain-services)
 - [Wikipedia](https://en.wikipedia.org/wiki/Active_Directory)
 
-* Installation Process
-* Configuration Overview
-* The "tools"
+### Installation Process
+- [Install Active Directory Level 100](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-active-directory-domain-services--level-100-)
+- 2016 AD DS Installation video by "Instructor Paul"
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Vo5WAoukDnE
+" target="_blank"><img src="http://img.youtube.com/vi/Vo5WAoukDnE/0.jpg" 
+alt="2016 AD DS Installation" width="320" height="240" border="10" /></a>
+
+### Configuration Overview
+
+### The "tools"
 
 ## Section 2 - Recommended Practices
 * Topology
