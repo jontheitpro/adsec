@@ -33,11 +33,15 @@ alt="2016 AD DS Installation" width="320" height="240" border="10" /></a>
 * Virtualization
 * Cloud/IaaS
 
+****
+
 ## Section 3 - Directory Security Fundamentals
 * AD Security Concerns
 * Tier Model
 * Securing Active Directory
 * PAWs
+
+****
 
 ## Section 4 - Hardening the Directory
 * Baselines (MS/STIG/CIS)
