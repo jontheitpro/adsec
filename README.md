@@ -25,6 +25,8 @@ alt="2016 AD DS Installation" width="320" height="240" border="10" /></a>
 
 ### The "tools"
 
+****
+
 ## Section 2 - Recommended Practices
 * Topology
 * Sizing/Capacity Planning
