@@ -3,6 +3,11 @@
 
 ## Section 1 - Directory Service Basics
 * What is a directory service
+
+[What is a Directory Service basic definition](https://www.dummies.com/programming/networking/defining-terms-what-is-a-directory-service/)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Directory_service)
+
 * Microsoft Active Directory
 * Installation Process
 * Configuration Overview
