@@ -25,6 +25,11 @@ alt="2016 AD DS Installation" width="320" height="240" border="10" /></a>
 
 ### The "tools"
 - [ADTimeline](https://github.com/ANSSI-FR/ADTimeline)
+- [AD Topology Diagramer](https://www.microsoft.com/en-us/download/details.aspx?id=13380)
+- [MS Security Compliance Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=55319)
+- [ADExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
+- [AD Replication Status Tool](https://www.microsoft.com/en-us/download/details.aspx?id=30005)
+
 
 
 ****
