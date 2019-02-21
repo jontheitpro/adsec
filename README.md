@@ -2,6 +2,7 @@
 # Active Directory Security Basics
 
 You will need to have your free Azure account created and active before this training begins! 
+
 **This activity should be completed before you arrive on Saturday, Feb 23rd**
 
 [Free Azure Trial](https://azure.microsoft.com/free/)
