@@ -17,6 +17,9 @@ I have uploaded copies of a reference template and parameters json files to the 
 
 **It is YOUR responsibility to DESTROY these systems when no longer in use**
 
+[Additional Azure Quickstart templates](https://github.com/Azure/azure-quickstart-templates)
+
+
 
 ## Section 1 - Directory Service Basics
 ### What is a directory service
